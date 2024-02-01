@@ -1,7 +1,5 @@
 # To-Do List with Reminders
 
-![Project Logo](link_to_logo.png)  <!-- Add a logo or badges if applicable -->
-
 ## Project Description
 
 This project is a To-Do List application with reminders. It allows users to create, edit, and delete tasks. Additionally, users can set reminders for specific tasks to receive notifications.
@@ -57,51 +55,35 @@ The application uses a configuration file located at config.py. You can customiz
 Contributions are welcome! To contribute to the project, follow these steps:
 
 1. Fork the repository
-2. Create a new branch: git checkout -b feature/your-feature
-3. Make changes and commit: git commit -m 'Add your feature'
-4. Push to the branch: git push origin feature/your-feature
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make changes and commit: `git commit -m 'Add your feature'`
+4. Push to the branch: `git push origin feature/your-feature`
 5. Open a pull request
 
 ## Tests
 
 To run tests, use the following command:
 
-bash
-Copy code
-pytest
-License
+`pytest`
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License
 
-Acknowledgments
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/homadb/to-do-list/blob/main/LICENSE) file for details.
 
-Flask documentation
-Bootstrap framework
-Contact
+## Acknowledgments
 
-For any inquiries, contact [your.email@example.com]. You can also find me on GitHub.
+- Flask documentation
+- Bootstrap framework
 
-FAQ
+## FAQ
 
 Q: How do I reset my password?
 A: ...
 
-Troubleshooting
+## Troubleshooting
 
-If you encounter issues with the database, make sure the database URI in config.py is correct.
-Additional Documentation
+- If you encounter issues with the database, make sure the database URI in `config.py` is correct.
 
-API documentation
-Example
+## Version History
 
-Version History
-
-1.0.0 (2024-01-01): Initial release
-Support
-
-For support, visit the GitHub Issues page.
-
-sql
-Copy code
-
-Feel free to copy and paste this template into your README.md file and custo
+- 1.0.0 (2024-01-01): Initial release
