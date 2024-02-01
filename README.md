@@ -47,20 +47,20 @@ The application uses a configuration file located at config.py. You can customiz
 
 ## Features
 
-Create, edit, and delete tasks
-Set reminders for tasks
-User authentication
-Responsive design for mobile devices
+- Create, edit, and delete tasks
+- Set reminders for tasks
+- User authentication
+- Responsive design for mobile devices
 
 ## Contributing
 
 Contributions are welcome! To contribute to the project, follow these steps:
 
-- Fork the repository
-- Create a new branch: git checkout -b feature/your-feature
-Make changes and commit: git commit -m 'Add your feature'
-Push to the branch: git push origin feature/your-feature
-Open a pull request
+1. Fork the repository
+2. Create a new branch: git checkout -b feature/your-feature
+3. Make changes and commit: git commit -m 'Add your feature'
+4. Push to the branch: git push origin feature/your-feature
+5. Open a pull request
 
 ## Tests
 
