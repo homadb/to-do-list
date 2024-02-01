@@ -14,13 +14,9 @@ This project is a To-Do List application with reminders. It allows users to crea
 - [Tests](#tests)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
 - [FAQ](#faq)
 - [Troubleshooting](#troubleshooting)
-- [Additional Documentation](#additional-documentation)
-- [Example](#example)
 - [Version History](#version-history)
-- [Support](#support)
 
 ## Installation
 
